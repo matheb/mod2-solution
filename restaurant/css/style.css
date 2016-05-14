@@ -16,7 +16,7 @@ p {
 }
 /* Simple Responsive Framework. */
 .row {
-  width: 100%;
+  width: 33%;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
